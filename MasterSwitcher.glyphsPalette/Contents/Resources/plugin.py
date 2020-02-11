@@ -29,6 +29,7 @@ class MasterSwitcher (PalettePlugin):
 			'en': u'Master Switcher',
 			'de': u'Master-Switcher',
 			'es': u'Control de Másteres',
+			'fr': u'Changeur de Masters',
 		})
 		
 		# Load .nib dialog (without .extension)
